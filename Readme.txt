@@ -1,4 +1,4 @@
-This project uses an LSTM RNN to predict Supreme Court outcomes from oral argument questions. 
+This project uses an ensemble with an LSTM RNN and AdaBoost to predict Supreme Court outcomes from oral argument questions. 
 
 --------------------
 Scraping
