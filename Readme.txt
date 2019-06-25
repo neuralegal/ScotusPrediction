@@ -15,7 +15,7 @@ Scraping Oyez takes several days. These files require Python 3, Pandas, Beautifu
 --------------------
 Train LSTM
 
-To train the LSTM, first open the Jupyter Notebook in the Train LSTM folder called Create Language Model.ipynb to create the language model. Training one up to our accuracy took several days on a GeForce GTX 1080. Next use Train LSTM Classifier.ipynb to train the main DF and the justices DFs. This step took several days as well. These files require fast.ai 1.0.48.
+To train the LSTM, first open the Jupyter Notebook in the Train LSTM folder called Create Language Model.ipynb to create the language model. Training one up to our accuracy took several days on a GeForce GTX 1080. Next use Train LSTM Classifier.ipynb to train the main DF and the justices DFs. The language model needs to be trained before the classifier will work and was not included due to file size considerations. These files require fast.ai 1.0.48.
 
 --------------------
 Train Ensemble Model
