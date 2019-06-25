@@ -20,7 +20,7 @@ To train the LSTM, first open the Jupyter Notebook in the Train LSTM folder call
 --------------------
 Train Ensemble Model
 
-To integrate the ensemble model, first use the EvaluateModel.ipynb notebook to add the softmax outputs from the model predictions to feature_table.csv. Then run neuralegal_adaboost.py in the main directory. This file requires Python 2.7 and Scikit-learn 0.17.1
+To integrate the ensemble model, first use the EvaluateModel.ipynb notebook to add the softmax outputs from the model predictions to feature_table.csv (already added inculded feature-table.csv) Then run neuralegal_adaboost.py in the main directory. This file requires Python 2.7 and Scikit-learn 0.17.1
 
 -------------------
 Check AUC Scores
